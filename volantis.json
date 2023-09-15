@@ -1,0 +1,17 @@
+{
+    "name": "volantis/material-icons",
+    "type": "icon-pack",
+    "description": "A growing set of light and dark icons based on Google's Material Icons.",
+    "website": "https://volantis.dev",
+    "authors": [{
+            "name": "Ben McClure",
+            "email": "ben@volantisdev.com"
+    }],
+    "require": {
+        "volantis/common": "^1.0"
+    },
+    "icons": {
+        "dark": "icons/dark",
+        "light": "icons/light"
+    }
+}
